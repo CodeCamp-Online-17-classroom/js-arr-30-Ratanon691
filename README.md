@@ -1,14 +1,14 @@
-# js-lab-115
-### Lab115 Array: array result1
+# js-lab-116
+### Lab116 Array: array result2
 ให้สร้าง array result จาก array ที่กำหนด โดยใช้ arr.map(fn)
 
 ```JavaScript
-const array = [1, 2, 30, 400];
-// result: [2, 4, 60, 800"]
+const array = ['apple', 'banana', 'orange'];
+// result: ["APPLE", "BANANA", "ORANGE"]
 
-const array = [1, 2, 3, 4];
-// result: ["1", "2", "3", "4"]
+const array = [1, 3, 4, 5, 6, 7, 8];
+// result: ["odd", "odd", "even", "odd", "even", "odd", "even"]
 
-const array = [1, '1', 2, {}];
-// result: ["number", "string", "number", "object"]
+const array = [1, -3, 2, 8, -4, 5];
+// result: [1, 3, 2, 8, 4, 5]
 ```
