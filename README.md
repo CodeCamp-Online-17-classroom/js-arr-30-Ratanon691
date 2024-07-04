@@ -12,3 +12,4 @@ const array = [1, 3, 4, 5, 6, 7, 8];
 const array = [1, -3, 2, 8, -4, 5];
 // result: [1, 3, 2, 8, 4, 5]
 ```
+Rattanon Tunwittaya
